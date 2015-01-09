@@ -1,9 +1,6 @@
-# info-curso
-Información general del curso
+Curso Inteligencia Artificial 
+==============================
 
-Curso Inteligencia Artificial UNISON LCC 2015a
-===============================================
-
-Julio Waissman Vilanova
------------------------
+# Universidad de Sonora, período 2015a
+# Julio Waissman Vilanova
 
