@@ -1,0 +1,178 @@
+\documentclass[onecolumn, letter, 11pt]{article}
+
+\usepackage{graphicx}
+\usepackage{fourier}
+\usepackage[sumlimits]{amsmath}
+\usepackage[spanish]{babel}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{geometry}
+\usepackage{paralist}
+\usepackage{url}
+
+\geometry{left=3cm,right=3cm,top=3cm,bottom=3cm}
+
+
+\begin{document}
+
+\title{Curso Inteligencia Artificial} 
+
+\author{Julio Waissman Vilanova\\
+  2015a} 
+
+\date{\texttt{juliowaissman@mat.uson.mx} }
+
+\maketitle
+
+\section*{Temario}
+
+\begin{enumerate}
+
+\item Introducción a la IA.
+
+  \begin{itemize}
+  \item[{\bf Tema 1}.] Introducción a la IA. 
+  \item[{\bf Tema 2}.] Agentes racionales.
+  \end{itemize}
+
+\item Entornos discretos deterministas conocidos estáticos.
+
+  \begin{itemize}
+  \item[{\bf Tema 3}.] Optimización discreta (métodos metaheurísticos).
+  \item[{\bf Tema 4}.] Problemas de satisfacción de restricciones.
+  \end{itemize}
+
+\item Entornos discretos deterministas conocidos dinámicos.
+
+  \begin{itemize}
+  \item[{\bf Tema 5}.] Búsquedas. 
+  \item[{\bf Tema 6}.] Juegos observables deterministas.
+  \end{itemize}
+
+\item Entornos discretos no deterministas estáticos. 
+
+  \begin{itemize}
+  \item[{\bf Tema 7}.] Redes bayesianas.
+  \item[{\bf Tema 8}.] Aprendizaje supervisado.
+  \item[{\bf Tema 9}.] Aprendizaje no supervisado.
+  \end{itemize}
+
+
+\item Entornos discretos no deterministas dinámicos ({\bf lo que no se alcanza a ver}) \footnote{Se verán temas si alcanza el tiempo} 
+
+  \begin{itemize}
+  \item[{\bf Tema 10}.] Cadenas de Markov.
+  \item[{\bf Tema 10}.] Procesos de decisión markovianos.
+  \item[{\bf Tema 14}.] Aprendizaje reforzado.
+  \item[{\bf Tema 15}.] Juegos estocásticos.
+  \end{itemize}
+
+\end{enumerate}
+
+
+\section*{Evaluación}
+
+\begin{description}
+
+\item Exámenes rápidos: 20 \% de la calificación final.
+
+\item Examen intermedio: 20\% de la calificación final. 
+
+\item Examen final: 30\% de la calificación final).
+
+\item Tareas: 30\% de la calificación final.  
+
+\end{description}
+
+A lo largo del curso
+se solicitarán de 4 a 8 tareas, las cuales serán pequeños proyectos de programación. Con
+las siguientes características:
+
+\begin{itemize}
+\item   En cada tarea estará claramente especificado el valor de cada pregunta. 
+\item La tarea contará completa si se entrega antes de la fecha límite de entrega. 
+\item Si la tarea se entrega después contará solamente el 50\% de la
+  calificación obtenida.  
+\item La calificación de las tareas es el promedio de calificación del 80\% de las tareas mejor calificadas.
+\end{itemize}
+
+\begin{center}
+{\bf Es requisito indispensable para aprobar el curso el
+  tener una nota aprobatoria final en las tareas}. 
+\end{center}
+
+Para los exámenes, se permite consultar cualquier documento, libro,
+notas del curso, etc. Sin embargo no está permitido comentar nada con
+los compañeros. Parar información, o discutir un problema con un
+compañero durante un examen se considera una falta al código de ética
+del curso, por lo que los alumnos que incurran en dichas prácticas
+están reprobados en la materia. 
+
+Todos los vernes habrá un exámen rápido (de 15 min. a media hora, y en algunos pocos casos
+la hora completa). Estos exámenes rápidos serán de una o dos preguntas o de preguntas de
+opción múltiple. Algunas semanas no habrá exámenes rápidos.
+
+\section*{Python}
+
+Se asume que los alumnos del curso de Inteligencia Artificial tienen
+cierto nivel de competencias en programación, y que aprender un nuevo
+lenguaje no es un problema. Para el curso se utilizará el lenguaje
+interpretado \emph{Python}. Cualquier distribución de Python es buena,
+pero para este curso recomendamos probar \emph{Anaconda},  una distribución científica que se comienza a
+utilizar mucho en diferentes universidades y centros de investigación en Estados Unidos. 
+
+Cualquier entorno de desarrollo para \emph{Python} es bueno y suficiente para el curso. En
+particular, al instalar \emph{Anaconda}, esta incluye un entorno de desarrollo integrado
+para \emph{Python} llamado \emph{Spyder}, que parece ser suficientemente amigable y
+sencillo para las actividades que se realizarán en el curso. 
+
+\section*{Asesorias, material y tareas}
+
+Para esta clase vamos a utilizar \emph{Piazza} para la respuesta de
+dudas relativas al curso, a la administración del curso (fechas de
+exámenes por ejemplo) así como para distribuir anuncios de manera
+eficiente. En lugar de enviar correos electrónicos con preguntas, les
+recomiendo utilizar esta plataforma. Las dudas pueden mandarse en
+forma privada o pública. 
+
+Para darse de alta en el curso seguir este link:
+\begin{center}
+\url{piazza.com/uson.mx/spring2015/9458}
+\end{center}
+y para entrar en el curso seguir este link
+\begin{center}
+\url{piazza.com/uson.mx/spring2015/9458/home}
+\end{center}
+
+Para las tareas se utilizará \emph{GitHub}. La información del sitio
+de GitHub se verá en las primeras semanas del curso.
+
+\section*{Bibliografía}
+
+El curso se basa en el libro << \emph{Artificial Intelligence: A
+  Modern Approach}>> (AIMA). Este es el libro de texto más utilizado
+en el mundo para el curso de Inteligencia Artificial. Existen varios
+ejemplares en la biblioteca de Ciencias Exactas. En español la
+referencia es:
+\begin{center}
+  \textbf{Inteligencia Artificial Un Enfoque Moderno, 2 ed.}\\
+  \emph{Stuart Russell y Peter Norvig} (Pearson Educación)\\
+  ISBN: 842054003x. ISBN-13: 9788420540030
+\end{center}
+
+La traducción de la primera edición es pésima, y casi
+imposible de leer. Favor de evitar en lo posible utilizar la primera
+edición del libro en español.
+
+\section*{Consideraciones generales}
+
+Esta estrictamente prohibido hablar por telefono o contestar mensajes
+dentro de clase. Si suena el teléfono y considera que es muy
+importante la llamada, entonces salir a contestarlo. La clase dura
+solamente una hora al día, por lo que no es necesario hacer pausa para
+salir al baño. Si alguien debe salir por una urgencia solamente salga
+del salón. Todo el que sale del salón ya no vuelve ese día. Si alguien
+llega tarde, solo entre sin distraer a sus compañeros.
+
+\end{document}
