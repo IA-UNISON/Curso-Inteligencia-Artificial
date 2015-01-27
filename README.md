@@ -38,14 +38,14 @@ Información general
 	   tareas presentadas por un alumno. Una tarea entregada fuera del plazo se 
 	   califica al 50%.
 
-5. Para el curso el lenguaje de prograación retenido es Python. 
+5. Para el curso el lenguaje de programación retenido es Python. 
    Existen muchos y muy buenos tutoriales de Python en la red. 
    Se asume que los alumnos del curso de Inteligencia Artificial tienen cierto 
    nivel de competencias en programación, y que aprender un nuevo lenguaje 
    no es un problema. 
 
 6. Asesorías. Todas las asesorías individuales presenciales que requieran los 
-   alumnos son posibles. Solamente se les solicita hacordar una cita con el 
+   alumnos son posibles. Solamente se les solicita acordar una cita con el 
    profesor, con el fin de encontrar un horario conveniente para ambos. 
    De preferencia se realizarán asesorías en linea a través de la plataforma 
    [piazza](https://www.piazza.com/uson.mx/spring2015/9458/home). La plataforma en linea 
