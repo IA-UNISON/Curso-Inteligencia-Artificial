@@ -2,7 +2,7 @@
 
 **Universidad de Sonora, período 2015a**
 
-[Julio Waissman Vilanova](juliowaissman@gmail.com)      
+[Julio Waissman Vilanova](mailto:juliowaissman@gmail.com)      
 Cubículo 1, edificio 3K-4
 
 Información general
