@@ -48,7 +48,7 @@ Información general
    alumnos son posibles. Solamente se les solicita hacordar una cita con el 
    profesor, con el fin de encontrar un horario conveniente para ambos. 
    De preferencia se realizarán asesorías en linea a través de la plataforma 
-   [piazza](piazza.com/uson.mx/spring2015/9458/home). La plataforma en linea 
+   [piazza](https://www.piazza.com/uson.mx/spring2015/9458/home). La plataforma en linea 
    ayuda a que el estudiante plantee mejor sus preguntas, y promueve el trabajo 
    colaborativo, al poder contestar la pregunta otro estudiante, así como 
    promocionar la cultura de compartir conocimiento, cultura ampliamente difundida 
