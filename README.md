@@ -107,5 +107,6 @@ Listado de tareas a realizar
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON-2015a/tarea01-Agentes-Inteligentes). Fecha de entrega: 6 de febrero de 2015.
 2. [Algoritmos de búsquedas directas](https://github.com/IA-UNISON-2015a/tarea02-Temple-Simulado). Fecha de entrega: 6 de marzo de 2015.  
-3. [Algoritmos Genéticos](https://github.com/IA-UNISON-2015a/tarea03-Algoritmos-Geneticos). Fecha de entrega: 6 de marzo de 2015.
-4. [Problemas de Satisfacción de Restricciones](https://github.com/IA-UNISON-2015a/tarea04-SatisfaccionRestricciones). Fecha de entrega: 23 de marzo de 2015.
+3. [Algoritmos genéticos](https://github.com/IA-UNISON-2015a/tarea03-Algoritmos-Geneticos). Fecha de entrega: 6 de marzo de 2015.
+4. [Problemas de satisfacción de restricciones](https://github.com/IA-UNISON-2015a/tarea04-SatisfaccionRestricciones). Fecha de entrega: 23 de marzo de 2015.
+5. [Problemas de búsquedas informadas](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). Fecha de entrega: 10 de abril de 2015.
