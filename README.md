@@ -24,8 +24,6 @@ Información general
 	7. Representación del conocimiento en redes bayesianas
 	8. Aprendizaje supervisado
 	9. Aprendizaje no supervisado
-	10. Procesos de decisión Markovianos
-	11. Aprendizaje por refuerzo
 
 4. La calificación del curso se realiza de la siguiente manera:
 
