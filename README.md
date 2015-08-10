@@ -47,13 +47,7 @@ Información general
 6. Asesorías. Todas las asesorías individuales presenciales que requieran los 
    alumnos son posibles. Solamente se les solicita acordar una cita con el 
    profesor, con el fin de encontrar un horario conveniente para ambos. 
-   De preferencia se realizarán asesorías en linea a través de la plataforma 
-   [piazza](https://www.piazza.com/uson.mx/spring2015/9458/home). La plataforma en linea 
-   ayuda a que el estudiante plantee mejor sus preguntas, y promueve el trabajo 
-   colaborativo, al poder contestar la pregunta otro estudiante, así como 
-   promocionar la cultura de compartir conocimiento, cultura ampliamente difundida 
-   y aceptada en el mundo profesional en ciencas de la computación.
-
+   
 7. Bibliografía: **Inteligencia Artificial Un Enfoque Moderno, 2 ed.**, 
    *Stuart Russell y Peter Norvig* (Pearson Educación). De preferencia usar la 
    3er edicion en inglés, pero la segunda se encuentra en la biblioteca. Evitar la primer
