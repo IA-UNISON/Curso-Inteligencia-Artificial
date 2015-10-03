@@ -1,6 +1,6 @@
 # Curso Inteligencia Artificial 
 
-**Universidad de Sonora, período 2015a**
+**Universidad de Sonora, período 2015b**
 
 [Julio Waissman Vilanova](mailto:juliowaissman@gmail.com)      
 Cubículo 1, edificio 3K-4
