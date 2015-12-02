@@ -104,3 +104,4 @@ Listado de tareas a realizar
 5. [Problemas de búsquedas informadas](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). Fecha de entrega: **10 de noviembre de 2015.**
 6. [Problemas de búsquedas con adversario](https://github.com/IA-UNISON-2015b/tarea06-Busqueda-Adversario/blob/master/README.md). Fecha de entrega: **10 de diciembre de 2015.**
 7. [Bayes inocente y filtros antispam](https://github.com/IA-UNISON-2015b/tarea07-Naive-Bayes). Fecha de entrega: **10 de diciembre de 2015.**
+8. [Aprendizaje supervisado](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). Fecha de entrega: **10 de diciembre de 2015.**
