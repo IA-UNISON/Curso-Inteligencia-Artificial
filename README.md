@@ -8,11 +8,9 @@ Cubículo 1, edificio 3K-4
 Información general
 -------------------
 
-1. Horario: Lunes y miércoles de 10:00 a 12:00 hrs.
+1. Horario: Lunes a viernes de 11:00 a 12:00 hrs.
 
-2. Exámenes rápidos: Viérnes de 10:00 a 11:00 hrs.
-
-3. El temario del curso se encuentra [aquí](temario/temario.pdf) y puede 
+2. El temario del curso se encuentra [aquí](temario/temario.pdf) y puede 
    resumirse como:
 
 	1. Introducción a la IA
@@ -31,12 +29,11 @@ Información general
 	2. Examen intermedio (20%)
 	3. Examen final (20%)
 	4. Tareas (30%)
-	5. Para aprobar el curso es necesario tener arriba de 60 en las tareas.
+	5. Para aprobar el curso es necesario tener una calificación mayor o igual a 60 en las tareas.
 	   Las tareas se califican con el promedio del 80% (redondeado) de las mejores 
-	   tareas presentadas por un alumno. Una tarea entregada fuera del plazo se 
-	   califica al 50%.
+	   tareas presentadas por un alumno. Una tarea entregada fuera del plazo de entrega no tiene calificación.
 
-5. Para el curso el lenguaje de programación retenido es Python. 
+5. Para el curso el lenguaje de programación utilizado es Python. 
    Existen muchos y muy buenos tutoriales de Python en la red. 
    Se asume que los alumnos del curso de Inteligencia Artificial tienen cierto 
    nivel de competencias en programación, y que aprender un nuevo lenguaje 
@@ -54,16 +51,17 @@ Información general
 Como cargar, modificar y entregar las tareas
 --------------------------------------------
 
-Las tareas las iremos cargando en el sistema al pasar del tiempo. 
+Las tareasse encuentran como repositorios de github como se ve más abajo. 
 Es importante notar que, al ser un sistema colaborativo, las tareas, 
 así como sus soluciones se encuentran a disposición de todo mundo, 
 por lo que es necesario cambiar la tarea de semestre a semestre.
 
 Por ese motivo, aunque exista la tarea en el sistema, mientras no se de
-aviso que la tarea está disponible, favor de no empezar a hacerla, 
+aviso en clase que la tarea está disponible, favor de no empezar a hacerla, 
 ya que puede llegar a sufrir cambios de última hora.
 
-El procedimiento a seguir para cargar, modificar y entregar una tarea el siguiente:
+El procedimiento a seguir para cargar, modificar y entregar una tarea el siguiente
+(este procedimiento lo revisaremos en clase para la primer tarea):
 
 1. Realiza un **fork** en *Github* para el repositorio de la tarea en particular.
 
@@ -97,11 +95,11 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 Listado de tareas a realizar
 -----------------------------
 
-1. [Agentes inteligentes](https://github.com/IA-UNISON-2015a/tarea01-Agentes-Inteligentes). Fecha de entrega: **6 de septiembre de 2015.**
-2. [Algoritmos de búsquedas directas](https://github.com/IA-UNISON-2015a/tarea02-Temple-Simulado). Fecha de entrega: **27 de septiembre de 2015.**
-3. [Algoritmos genéticos](https://github.com/IA-UNISON-2015a/tarea03-Algoritmos-Geneticos). Fecha de entrega: **4 de octubre de 2015.**
-4. [Problemas de satisfacción de restricciones](https://github.com/IA-UNISON-2015a/tarea04-SatisfaccionRestricciones). Fecha de entrega: **18 de octubre de 2015.** 
-5. [Problemas de búsquedas informadas](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). Fecha de entrega: **10 de noviembre de 2015.**
-6. [Problemas de búsquedas con adversario](https://github.com/IA-UNISON-2015b/tarea06-Busqueda-Adversario/blob/master/README.md). Fecha de entrega: **10 de diciembre de 2015.**
-7. [Bayes inocente y filtros antispam](https://github.com/IA-UNISON-2015b/tarea07-Naive-Bayes). Fecha de entrega: **10 de diciembre de 2015.**
-8. [Aprendizaje supervisado](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). Fecha de entrega: **10 de diciembre de 2015.**
+1. [Agentes inteligentes](https://github.com/IA-UNISON-2015a/tarea01-Agentes-Inteligentes). Fecha tentativa de entrega: **1 de febrero de 2016.**
+2. [Algoritmos de búsquedas directas](https://github.com/IA-UNISON-2015a/tarea02-Temple-Simulado). Fecha tentativa de entrega: **15 de febrero de 2016.**
+3. [Algoritmos genéticos](https://github.com/IA-UNISON-2015a/tarea03-Algoritmos-Geneticos). Fecha tentativa de entrega: **29 de febrero de 2016.**
+4. [Problemas de satisfacción de restricciones](https://github.com/IA-UNISON-2015a/tarea04-SatisfaccionRestricciones). Fecha tentativa de entrega: **14 de marzo de 2016.** 
+5. [Problemas de búsquedas informadas](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). Fecha tentativa de entrega: **4 de abril de 2016.**
+6. [Problemas de búsquedas con adversario](https://github.com/IA-UNISON-2015b/tarea06-Busqueda-Adversario/blob/master/README.md). Fecha de entrega: **18 de abril de 2016.**
+7. [Bayes inocente y filtros antispam](https://github.com/IA-UNISON-2015b/tarea07-Naive-Bayes). Fecha de entrega: **2 de mayo de 2016.**
+8. [Aprendizaje supervisado](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). Fecha de entrega: **16 de mayo de 2016.**
