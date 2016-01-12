@@ -10,6 +10,8 @@ Información general
 
 1. Horario: Lunes a viernes de 11:00 a 12:00 hrs.
 
+2. [Material de apoyo para el curso](https://github.com/IA-UNISON/material) 
+
 2. El temario del curso se encuentra [aquí](temario/temario.pdf) y puede 
    resumirse como:
 
