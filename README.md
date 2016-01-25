@@ -97,7 +97,7 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 Listado de tareas a realizar
 -----------------------------
 
-1. [Agentes inteligentes](https://github.com/IA-UNISON-2015a/tarea01-Agentes-Inteligentes). Fecha tentativa de entrega: **1 de febrero de 2016.**
+1. [Agentes inteligentes](https://github.com/IA-UNISON-2015a/tarea01-Agentes-Inteligentes). Fecha de entrega: **3 de febrero de 2016.**
 2. [Algoritmos de búsquedas directas](https://github.com/IA-UNISON-2015a/tarea02-Temple-Simulado). Fecha tentativa de entrega: **15 de febrero de 2016.**
 3. [Algoritmos genéticos](https://github.com/IA-UNISON-2015a/tarea03-Algoritmos-Geneticos). Fecha tentativa de entrega: **29 de febrero de 2016.**
 4. [Problemas de satisfacción de restricciones](https://github.com/IA-UNISON-2015a/tarea04-SatisfaccionRestricciones). Fecha tentativa de entrega: **14 de marzo de 2016.** 
