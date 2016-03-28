@@ -100,8 +100,8 @@ Listado de tareas a realizar
 1. [Agentes inteligentes](https://github.com/IA-UNISON-2015a/tarea01-Agentes-Inteligentes). Fecha de entrega: **3 de febrero de 2016.**
 2. [Algoritmos de búsquedas directas](https://github.com/IA-UNISON-2015a/tarea02-Temple-Simulado). Fecha de entrega: **18 de febrero de 2016.**
 3. [Algoritmos genéticos](https://github.com/IA-UNISON-2015a/tarea03-Algoritmos-Geneticos). Fecha de entrega: **1 de marzo de 2016.**
-4. [Problemas de satisfacción de restricciones](https://github.com/IA-UNISON-2015a/tarea04-SatisfaccionRestricciones). Fecha tentativa de entrega: **14 de marzo de 2016.** 
-5. [Problemas de búsquedas informadas](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). Fecha tentativa de entrega: **4 de abril de 2016.**
-6. [Problemas de búsquedas con adversario](https://github.com/IA-UNISON-2015b/tarea06-Busqueda-Adversario/blob/master/README.md). Fecha de entrega: **18 de abril de 2016.**
-7. [Bayes inocente y filtros antispam](https://github.com/IA-UNISON-2015b/tarea07-Naive-Bayes). Fecha de entrega: **2 de mayo de 2016.**
-8. [Aprendizaje supervisado](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). Fecha de entrega: **16 de mayo de 2016.**
+4. [Problemas de satisfacción de restricciones](https://github.com/IA-UNISON-2015a/tarea04-SatisfaccionRestricciones). Fecha de entrega: **30 de marzo de 2016.** 
+5. [Problemas de búsquedas informadas](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). Fecha de entrega: **11 de abril de 2016.**
+6. [Problemas de búsquedas con adversario](https://github.com/IA-UNISON-2015b/tarea06-Busqueda-Adversario/blob/master/README.md). Fecha tentativa de entrega: **18 de abril de 2016.**
+7. [Bayes inocente y filtros antispam](https://github.com/IA-UNISON-2015b/tarea07-Naive-Bayes). Fecha tentativa de entrega: **2 de mayo de 2016.**
+8. [Aprendizaje supervisado](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). Fecha tentativa de entrega: **16 de mayo de 2016.**
