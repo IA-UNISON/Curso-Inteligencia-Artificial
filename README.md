@@ -1,59 +1,61 @@
-# Curso Inteligencia Artificial 
+# Información General
 
-**Universidad de Sonora, período 2015b**
+- **Profesor**: [Julio Waissman Vilanova](mailto:juliowaissman@gmail.com)      
 
-[Julio Waissman Vilanova](mailto:juliowaissman@gmail.com)      
-Cubículo 1, edificio 3K-4
+- **Localización**: Cubículo 1, edificio 3K-4
 
-Información general
--------------------
+- **Horario**: Lunes a viernes de 11:00 a 12:00 hrs.
 
-1. Horario: Lunes a viernes de 11:00 a 12:00 hrs.
+- [**Material de apoyo para el curso**](https://github.com/IA-UNISON/material) 
 
-2. [Material de apoyo para el curso](https://github.com/IA-UNISON/material) 
+- **Lenguage de programación**: Para el curso el lenguaje de programación utilizado es Python. 
+  Existen muchos y muy buenos tutoriales de Python en la red. 
+  Se asume que los alumnos del curso de Inteligencia Artificial tienen cierto 
+  nivel de competencias en programación, y que aprender un nuevo lenguaje 
+  no es un problema. 
 
-2. El temario del curso se encuentra [aquí](temario/temario.pdf) y puede 
-   resumirse como:
-
-	1. Introducción a la IA
-	2. Agentes racionales
-	3. Búsquedas locales
-	4. Satisfacción de restricciones
-	5. Búsquedas informadas
-	6. Búsquedas con adversario
-	7. Representación del conocimiento en redes bayesianas
-	8. Aprendizaje supervisado
-	9. Aprendizaje no supervisado
-
-4. La calificación del curso se realiza de la siguiente manera:
-
-	1. Exámenes rápidos (20%)
-	2. Examen intermedio (20%)
-	3. Examen final (20%)
-	4. Tareas (30%)
-	5. Para aprobar el curso es necesario tener una calificación mayor o igual a 60 en las tareas.
-	   Las tareas se califican con el promedio del 80% (redondeado) de las mejores 
-	   tareas presentadas por un alumno. Una tarea entregada fuera del plazo de entrega no tiene calificación.
-
-5. Para el curso el lenguaje de programación utilizado es Python. 
-   Existen muchos y muy buenos tutoriales de Python en la red. 
-   Se asume que los alumnos del curso de Inteligencia Artificial tienen cierto 
-   nivel de competencias en programación, y que aprender un nuevo lenguaje 
-   no es un problema. 
-
-6. Asesorías. Todas las asesorías individuales presenciales que requieran los 
-   alumnos son posibles. Solamente se les solicita acordar una cita con el 
+- **Asesorías**: Todas las asesorías individuales presenciales que requieran los 
+   alumnos son posibles y deseables. Solamente se les solicita acordar una cita con el 
    profesor, con el fin de encontrar un horario conveniente para ambos. 
    
 7. Bibliografía: **Inteligencia Artificial Un Enfoque Moderno, 2 ed.**, 
    *Stuart Russell y Peter Norvig* (Pearson Educación). De preferencia usar la 
-   3er edicion en inglés, pero la segunda se encuentra en la biblioteca. Evitar la primer
-   edicion, ya que la traducción es pésima.
+   3er edicion en inglés, la segunda edición es correcta y se encuentra en la biblioteca. 
+   Evitar la primera edicion, ya que la traducción es pésima. A lo largo del curso se iran 
+   agregando referencias a material disponible en la Web con bibliografía y tutoriales
+   actualizados e interactivos.
 
-Como cargar, modificar y entregar las tareas
---------------------------------------------
+# Conteido de la materia
 
-Las tareasse encuentran como repositorios de github como se ve más abajo. 
+El temario del curso se encuentra [aquí](temario/temario.pdf) y puede resumirse como:
+
+1. Introducción a la IA
+2. Agentes racionales
+3. Búsquedas locales
+4. Satisfacción de restricciones
+5. Búsquedas informadas
+6. Búsquedas con adversario
+7. Representación del conocimiento en redes bayesianas
+8. Aprendizaje supervisado
+9. Aprendizaje no supervisado
+
+# Calificación
+
+La calificación del curso se realiza de la siguiente manera:
+
+1. Exámenes rápidos (20%)
+2. Examen intermedio (20%)
+3. Examen final (20%)
+4. Tareas (30%)
+
+Para aprobar el curso *es necesario tener una calificación mayor o igual a 60 en las tareas*.
+Las tareas se califican con el promedio del 80% (redondeado) de las mejores 
+tareas presentadas por un alumno. Una tarea entregada fuera del plazo de entrega no tiene calificación.
+
+
+## Como cargar, modificar y entregar las tareas
+
+Las tareas se encuentran como repositorios de github como se ve más abajo. 
 Es importante notar que, al ser un sistema colaborativo, las tareas, 
 así como sus soluciones se encuentran a disposición de todo mundo, 
 por lo que es necesario cambiar la tarea de semestre a semestre.
@@ -94,14 +96,13 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
    sean de sintaxis o pequeños errores de programación. Errores de lógica o de comprensión 
    no serán resueltos en linea ya que puede mal interpretarse como un error menor.
 
-Listado de tareas a realizar
------------------------------
+## Listado de tareas a realizar
 
-1. [Agentes inteligentes](https://github.com/IA-UNISON-2015a/tarea01-Agentes-Inteligentes). Fecha de entrega: **3 de febrero de 2016.**
-2. [Algoritmos de búsquedas directas](https://github.com/IA-UNISON-2015a/tarea02-Temple-Simulado). Fecha de entrega: **18 de febrero de 2016.**
-3. [Algoritmos genéticos](https://github.com/IA-UNISON-2015a/tarea03-Algoritmos-Geneticos). Fecha de entrega: **1 de marzo de 2016.**
-4. [Problemas de satisfacción de restricciones](https://github.com/IA-UNISON-2015a/tarea04-SatisfaccionRestricciones). Fecha de entrega: **30 de marzo de 2016.** 
-5. [Problemas de búsquedas informadas](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). Fecha de entrega: **11 de abril de 2016.**
-6. [Problemas de búsquedas con adversario](https://github.com/IA-UNISON-2015b/tarea06-Busqueda-Adversario/blob/master/README.md). Fecha tentativa de entrega: **18 de abril de 2016.**
-7. [Bayes inocente y filtros antispam](https://github.com/IA-UNISON-2015b/tarea07-Naive-Bayes). Fecha tentativa de entrega: **2 de mayo de 2016.**
-8. [Aprendizaje supervisado](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). Fecha tentativa de entrega: **16 de mayo de 2016.**
+1. [Agentes inteligentes](https://github.com/IA-UNISON-2015a/tarea01-Agentes-Inteligentes). 
+2. [Algoritmos de búsquedas directas](https://github.com/IA-UNISON-2015a/tarea02-Temple-Simulado). 
+3. [Algoritmos genéticos](https://github.com/IA-UNISON-2015a/tarea03-Algoritmos-Geneticos). 
+4. [Problemas de satisfacción de restricciones](https://github.com/IA-UNISON-2015a/tarea04-SatisfaccionRestricciones). 
+5. [Problemas de búsquedas informadas](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). 
+6. [Problemas de búsquedas con adversario](https://github.com/IA-UNISON-2015b/tarea06-Busqueda-Adversario/blob/master/README.md). 
+7. [Bayes inocente y filtros antispam](https://github.com/IA-UNISON-2015b/tarea07-Naive-Bayes). 
+8. [Aprendizaje supervisado](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). 
