@@ -6,7 +6,7 @@
 
 - **Horario**: Lunes a viernes de 11:00 a 12:00 hrs.
 
-- [**Material de apoyo para el curso**](https://github.com/IA-UNISON/material) 
+- [**Material de apoyo para el curso**](http://ia-unison.github.io/material/) 
 
 - **Lenguage de programación**: Para el curso el lenguaje de programación utilizado es Python. 
   Existen muchos y muy buenos tutoriales de Python en la red. 
