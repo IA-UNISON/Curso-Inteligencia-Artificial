@@ -25,7 +25,7 @@
    agregando referencias a material disponible en la Web con bibliografía y tutoriales
    actualizados e interactivos.
 
-![El test de turng remasterizado](https://imgs.xkcd.com/comics/turing_test.png xkcd)
+![El test de turng remasterizado](https://imgs.xkcd.com/comics/turing_test.png "xkcd")
 
 # Conteido de la materia
 
