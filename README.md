@@ -18,12 +18,14 @@
    alumnos son posibles y deseables. Solamente se les solicita acordar una cita con el 
    profesor, con el fin de encontrar un horario conveniente para ambos. 
    
-7. Bibliografía: **Inteligencia Artificial Un Enfoque Moderno, 2 ed.**, 
+- Bibliografía: **Inteligencia Artificial Un Enfoque Moderno, 2 ed.**, 
    *Stuart Russell y Peter Norvig* (Pearson Educación). De preferencia usar la 
    3er edicion en inglés, la segunda edición es correcta y se encuentra en la biblioteca. 
    Evitar la primera edicion, ya que la traducción es pésima. A lo largo del curso se iran 
    agregando referencias a material disponible en la Web con bibliografía y tutoriales
    actualizados e interactivos.
+
+![El test de turng remasterizado](https://imgs.xkcd.com/comics/turing_test.png xkcd)
 
 # Conteido de la materia
 
