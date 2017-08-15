@@ -1,6 +1,6 @@
 # Información General
 
-- **Profesor**: [Julio Waissman Vilanova](mailto:juliowaissman@gmail.com)      
+- **Profesor**: [Julio Waissman Vilanova](http://mat.uson.mx/~juliowaissman/)
 
 - **Localización**: Cubículo 1, edificio 3K-4
 
