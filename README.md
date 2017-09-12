@@ -102,7 +102,7 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/tarea01-Agentes-Inteligentes). *Fecha de entrega: 4 de septiembre 2017*. 
 2. [Algoritmos de búsquedas directas](https://github.com/IA-UNISON/tarea02-Temple-Simulado). *Fecha de entrega: 17 de septiembre 2017*. 
-3. [Algoritmos genéticos](https://github.com/IA-UNISON-2015a/tarea03-Algoritmos-Geneticos). *Fecha de entrega por anunciar*. 
+3. [Algoritmos genéticos](https://github.com/IA-UNISON/tarea03-Algoritmos-Geneticos). *Fecha de entrega: 1 de octubre de 2017*. 
 4. [Problemas de satisfacción de restricciones](https://github.com/IA-UNISON-2015a/tarea04-SatisfaccionRestricciones). *Fecha de entrega por anunciar*. 
 5. [Problemas de búsquedas informadas](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). *Fecha de entrega por anunciar*. 
 6. [Problemas de búsquedas con adversario](https://github.com/IA-UNISON-2015b/tarea06-Busqueda-Adversario/blob/master/README.md). *Fecha de entrega por anunciar*. 
