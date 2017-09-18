@@ -101,10 +101,10 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 ## Listado de tareas a realizar
 
 1. [Agentes inteligentes](https://github.com/IA-UNISON/tarea01-Agentes-Inteligentes). *Fecha de entrega: 4 de septiembre 2017*. 
-2. [Algoritmos de búsquedas directas](https://github.com/IA-UNISON/tarea02-Temple-Simulado). *Fecha de entrega: 17 de septiembre 2017*. 
+2. [Temple (recocido) simulado](https://github.com/IA-UNISON/tarea02-Temple-Simulado). *Fecha de entrega: 17 de septiembre 2017*. 
 3. [Algoritmos genéticos](https://github.com/IA-UNISON/tarea03-Algoritmos-Geneticos). *Fecha de entrega: 1 de octubre de 2017*. 
-4. [Problemas de satisfacción de restricciones](https://github.com/IA-UNISON/tarea04-SatisfaccionRestricciones). *Fecha de entrega: 9 de octubre de 2017*. 
-5. [Problemas de búsquedas informadas](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). *Fecha de entrega por anunciar*. 
-6. [Problemas de búsquedas con adversario](https://github.com/IA-UNISON-2015b/tarea06-Busqueda-Adversario/blob/master/README.md). *Fecha de entrega por anunciar*. 
+4. [Satisfacción de restricciones binarias](https://github.com/IA-UNISON/tarea04-SatisfaccionRestricciones). *Fecha de entrega: 9 de octubre de 2017*. 
+5. [Búsquedas informadas (A*)](https://github.com/IA-UNISON-2015a/tarea05-Busquedas-Informadas). *Fecha de entrega por anunciar*. 
+6. [Búsquedas con adversario (Juegos deterministas)](https://github.com/IA-UNISON-2015b/tarea06-Busqueda-Adversario/blob/master/README.md). *Fecha de entrega por anunciar*. 
 7. [Bayes inocente y filtros antispam](https://github.com/IA-UNISON-2015b/tarea07-Naive-Bayes). *Fecha de entrega por anunciar*. 
-8. [Aprendizaje supervisado](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). *Fecha de entrega por anunciar*. 
+8. [Árboles de desición](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). *Fecha de entrega por anunciar*. 
