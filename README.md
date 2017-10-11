@@ -27,7 +27,7 @@
 
 ![El test de turng remasterizado](https://imgs.xkcd.com/comics/turing_test.png "xkcd")
 
-# Conteido de la materia
+# Contenido de la materia
 
 El temario del curso se encuentra [aquí](temario/temario.pdf) y puede resumirse como:
 
