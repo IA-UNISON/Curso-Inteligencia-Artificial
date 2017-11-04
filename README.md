@@ -1,3 +1,5 @@
+<img src="ia.png" width="200" >
+
 # Información General
 
 - **Profesor**: [Julio Waissman Vilanova](http://mat.uson.mx/~juliowaissman/)
