@@ -1,4 +1,4 @@
-<img src="ia.png" width="200" >
+<div style="text-align:center"><img src="ia.png" width="250"></div>
 
 # Información General
 
