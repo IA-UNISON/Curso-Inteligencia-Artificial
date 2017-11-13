@@ -108,5 +108,5 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 4. [Satisfacción de restricciones binarias](https://github.com/IA-UNISON/tarea04-SatisfaccionRestricciones). *Fecha de entrega: 13 de octubre de 2017*.
 5. [Búsquedas informadas](https://github.com/IA-UNISON/tarea05-Busquedas-Informadas). *Fecha de entrega: 20 de octubre de 2017*.
 6. [Búsquedas con adversario](https://github.com/IA-UNISON/tarea06-Busqueda-Adversario). *Fecha de entrega: 2 de noviembre de 2017*.
-7. [Bayes inocente y filtros antispam](https://github.com/IA-UNISON-2015b/tarea07-Naive-Bayes). *Fecha de entrega por anunciar*.
-8. [Árboles de desición](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). *Fecha de entrega por anunciar*.
+7. [Aprendizaje supervisado](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado). *1 de diciembre de 2017*.
+8. [Aprendizaje no supervisado](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). *Fecha de entrega por anunciar*.
