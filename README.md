@@ -109,4 +109,4 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 5. [Búsquedas informadas](https://github.com/IA-UNISON/tarea05-Busquedas-Informadas). *Fecha de entrega: 20 de octubre de 2017*.
 6. [Búsquedas con adversario](https://github.com/IA-UNISON/tarea06-Busqueda-Adversario). *Fecha de entrega: 2 de noviembre de 2017*.
 7. [Aprendizaje supervisado](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado). *Fecha de entrega: 1 de diciembre de 2017*.
-8. [Aprendizaje no supervisado](https://github.com/IA-UNISON-2015b/tarea08-aprendizaje_supervisado). *Fecha de entrega: 8 de diciembre de 2017*.
+8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado). *Fecha de entrega: 8 de diciembre de 2017*.
