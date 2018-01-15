@@ -40,8 +40,8 @@ El temario del curso se encuentra [aquí](temario/temario.pdf) y puede resumirse
 5. Búsquedas informadas
 6. Búsquedas con adversario
 7. Representación del conocimiento en redes bayesianas
-8. Aprendizaje supervisado
-9. Aprendizaje no supervisado
+8. Aprendizaje automático
+9. Toma de decisión bajo incertidumbre
 
 # Calificación
 
@@ -49,7 +49,7 @@ La calificación del curso se realiza de la siguiente manera:
 
 1. Exámenes rápidos (20%)
 2. Examen intermedio (20%)
-3. Examen final (20%)
+3. Examen final (30%)
 4. Tareas (30%)
 
 Para aprobar el curso *es necesario tener una calificación mayor o igual a 60 en las tareas*.
@@ -85,9 +85,10 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 
 5. Cada vez que realices cambios a los archivos, comentalos (**commit**) y realiza
    un **push** o un **sync** a tu repositorio de *GitHub* con el fin de guardar
-   los cambios realizados.
+   los cambios realizados. Recuerda que esta es la única evidencia que se tiene del avance
+   y el tiempo dedicado a las tareas.
 
-6. Una vez terminada la tarea (o una vez que ya no se piense modificarla más), realizar
+6. Una vez terminada la tarea (o una vez que ya no se piense modificarla más), realiza
    un **pull request** al repositorio original (el del profesor).
 
 7. La revisión de la tarea se realizará en linea, marcando las cosas que no están
@@ -102,11 +103,12 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 
 ## Listado de tareas a realizar
 
-1. [Agentes inteligentes](https://github.com/IA-UNISON/tarea01-Agentes-Inteligentes). *Fecha de entrega: 4 de septiembre 2017*.
-2. [Temple (recocido) simulado](https://github.com/IA-UNISON/tarea02-Temple-Simulado). *Fecha de entrega: 17 de septiembre 2017*.
-3. [Algoritmos genéticos](https://github.com/IA-UNISON/tarea03-Algoritmos-Geneticos). *Fecha de entrega: 1 de octubre de 2017*.
-4. [Satisfacción de restricciones binarias](https://github.com/IA-UNISON/tarea04-SatisfaccionRestricciones). *Fecha de entrega: 13 de octubre de 2017*.
-5. [Búsquedas informadas](https://github.com/IA-UNISON/tarea05-Busquedas-Informadas). *Fecha de entrega: 20 de octubre de 2017*.
-6. [Búsquedas con adversario](https://github.com/IA-UNISON/tarea06-Busqueda-Adversario). *Fecha de entrega: 2 de noviembre de 2017*.
-7. [Aprendizaje supervisado](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado). *Fecha de entrega: 1 de diciembre de 2017*.
-8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado). *Fecha de entrega: 8 de diciembre de 2017*.
+1. [Agentes inteligentes](https://github.com/IA-UNISON/tarea01-Agentes-Inteligentes). *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
+2. [Búsquedas locales](https://github.com/IA-UNISON/tarea02-Temple-Simulado).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
+3. [Satisfacción de restricciones](https://github.com/IA-UNISON/tarea04-SatisfaccionRestricciones).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
+4. [Búsquedas informadas](https://github.com/IA-UNISON/tarea05-Busquedas-Informadas). *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
+5. [Búsquedas con adversario](https://github.com/IA-UNISON/tarea06-Busqueda-Adversario).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
+6. [Redes bayesianas](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
+7. [Aprendizaje supervisado](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
+8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
+9. [Programación dinámica y aprendizaje por refuerzo](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado). *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.

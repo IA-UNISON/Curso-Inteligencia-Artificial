@@ -16,12 +16,12 @@
 
 \begin{document}
 
-\title{Curso Inteligencia Artificial} 
+\title{Curso Inteligencia Artificial}
 
 \author{Julio Waissman Vilanova\\
-  2017b} 
+  2018-1}
 
-\date{\texttt{juliowaissman@mat.uson.mx} }
+\date{\texttt{julio.waissman@unison.mx} }
 
 \maketitle
 
@@ -32,30 +32,37 @@
 \item Introducción a la IA.
 
   \begin{itemize}
-  \item[{\bf Tema 1}.] Introducción a la IA. 
+  \item[{\bf Tema 1}.] Introducción a la IA.
   \item[{\bf Tema 2}.] Agentes racionales.
   \end{itemize}
 
-\item Entornos discretos deterministas conocidos estáticos.
+\item Entornos discretos, deterministas, conocidos y estáticos.
 
   \begin{itemize}
-  \item[{\bf Tema 3}.] Optimización discreta (métodos metaheurísticos).
+  \item[{\bf Tema 3}.] Búsquedas locales (métodos metaheurísticos).
   \item[{\bf Tema 4}.] Problemas de satisfacción de restricciones.
   \end{itemize}
 
-\item Entornos discretos deterministas conocidos dinámicos.
+\item Entornos discretos, deterministas, conocidos y dinámicos.
 
   \begin{itemize}
-  \item[{\bf Tema 5}.] Búsquedas. 
-  \item[{\bf Tema 6}.] Juegos observables deterministas.
+  \item[{\bf Tema 5}.] Búsquedas.
+  \item[{\bf Tema 6}.] Juegos observables, deterministas de suma cero.
   \end{itemize}
 
-\item Entornos discretos no deterministas estáticos. 
+\item Entornos discretos, no deterministas y estáticos.
 
   \begin{itemize}
   \item[{\bf Tema 7}.] Redes bayesianas.
   \item[{\bf Tema 8}.] Aprendizaje supervisado.
   \item[{\bf Tema 9}.] Aprendizaje no supervisado.
+  \end{itemize}
+
+\item Entornos discretos, no deterministas y dinámicos.
+
+  \begin{itemize}
+  \item[{\bf Tema 10}.] Procesos de decisión de Markov.
+  \item[{\bf Tema 11}.] Aprendizaje por refuerzo.
   \end{itemize}
 
 \end{enumerate}
@@ -67,11 +74,11 @@
 
 \item Exámenes rápidos: 20 \% de la calificación final.
 
-\item Examen intermedio: 20\% de la calificación final. 
+\item Examen intermedio: 20\% de la calificación final.
 
 \item Examen final: 30\% de la calificación final).
 
-\item Tareas: 30\% de la calificación final.  
+\item Tareas: 30\% de la calificación final.
 
 \end{description}
 
@@ -80,26 +87,28 @@ se solicitarán 8 tareas, las cuales serán pequeños proyectos de programación. Co
 las siguientes características:
 
 \begin{itemize}
-\item   En cada tarea estará claramente especificado el valor de cada pregunta. 
-\item La tarea contará completa si se entrega antes de la fecha límite de entrega. 
-\item Si la tarea se entrega después, no tiene calificación.  
+\item   En cada tarea estará claramente especificado el valor de cada pregunta.
+\item La tarea contará completa si se entrega antes de la fecha límite de entrega.
+\item Si la tarea se entrega después, no tiene calificación.
 \item La calificación de las tareas es el promedio de calificación del 80\% de las tareas mejor calificadas.
 \end{itemize}
 
 \begin{center}
 {\bf Es requisito indispensable para aprobar el curso el
-  tener una nota aprobatoria final en las tareas}. 
+  tener una nota aprobatoria final en las tareas}.
 \end{center}
 
 Para los exámenes, se permite consultar cualquier documento, libro,
 notas del curso, etc. Sin embargo no está permitido comentar nada con
-los compañeros. Parar información, o discutir un problema con un
+los compañeros. Solicitar información, o discutir un problema con un
 compañero durante un examen se considera una falta al código de ética
 del curso, por lo que los alumnos que incurran en dichas prácticas
-están reprobados en la materia. 
+están reprobados en la materia.
 
 Todas las semanas habrá un exámen rápido. Estos exámenes rápidos
-pueden ser de tarea para el mismo día o para resolver en el salón. 
+pueden ser de tarea para el mismo día o para resolver en el salón.
+Los exámenes rápidos son una manera de mantener una evaluación contínua,
+y para estos siempre se permitirá consultar y discutir los problemas y sus soluciones.
 
 \section*{Python}
 
@@ -115,22 +124,23 @@ diferencia de otros años, este semestre utilizaremos la versión 3.X
 será la especificación del lenguaje que se utilizará mayoritariamente
 en un futuro cercano.
 
-Cualquier entorno de desarrollo para \emph{Python} es bueno y suficiente para el curso. En
-particular, al instalar \emph{Anaconda}, esta incluye un entorno de desarrollo integrado
-para \emph{Python} llamado \emph{Spyder}, que parece ser suficientemente amigable y
+Cualquier entorno de desarrollo para \emph{Python} es bueno y
+suficiente para el curso. En particular, al instalar \emph{Anaconda},
+esta incluye un entorno de desarrollo integrado para \emph{Python}
+llamado \emph{Spyder}, que parece ser suficientemente amigable y
 sencillo para las actividades que se realizarán en el curso. En
-particular, yo prefiero utilizar el IDE \emph{Pycharm, community
-  edition} de la compañía \emph{JetBrains} pero cualquier editor es
-más que suficiente. 
+particular, yo prefiero utilizar \emph{emacs}, o el IDE \emph{Pycharm,
+  community edition} pero cualquier editor es más que suficiente. Por
+supuesto \emph{vim} siempre es la opción más \emph{hacker} junto a
+\emph{emacs} (cuestión de gustos).
 
 \section*{Asesorias, material y tareas}
 
 Para esta clase vamos a utilizar \emph{GitHub} para el manejo de las
 tareas/proyectos mientras que los exámenes rápidos, tareas, etc, lo
-vamos a hacer en forma directa, o a lo mejor utilizaremos algun método
-de tutorías en linea.
+vamos a hacer en forma directa.
 
-Las instrucciones para realizar y someter las tareas se encuentran en 
+Las instrucciones para realizar y someter las tareas se encuentran en
 \begin{center}
 \url{http://ia-unison.github.io/Curso-Inteligencia-Artificial/}
 \end{center}
@@ -160,7 +170,7 @@ dentro de clase. Si suena el teléfono y considera que es muy
 importante la llamada, entonces salir a contestarlo. La clase dura
 solamente una hora al día, por lo que no es necesario hacer pausa para
 salir al baño. Si alguien debe salir por una urgencia solamente salga
-del salón. Todo el que sale del salón ya no vuelve ese día. Si alguien
+del salón. Si alguien
 llega tarde, solo entre sin distraer a sus compañeros.
 
 \end{document}
