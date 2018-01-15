@@ -103,12 +103,12 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 
 ## Listado de tareas a realizar
 
-1. [Agentes inteligentes](https://github.com/IA-UNISON/tarea01-Agentes-Inteligentes). *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
-2. [Búsquedas locales](https://github.com/IA-UNISON/tarea02-Temple-Simulado).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
-3. [Satisfacción de restricciones](https://github.com/IA-UNISON/tarea04-SatisfaccionRestricciones).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
-4. [Búsquedas informadas](https://github.com/IA-UNISON/tarea05-Busquedas-Informadas). *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
-5. [Búsquedas con adversario](https://github.com/IA-UNISON/tarea06-Busqueda-Adversario).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
-6. [Redes bayesianas](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
-7. [Aprendizaje supervisado](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
-8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado).  *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
-9. [Programación dinámica y aprendizaje por refuerzo](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado). *Fecha de entrega por anuncias, favor de no iniciar la tarea todavía*.
+1. [Agentes inteligentes](https://github.com/IA-UNISON/tarea01-Agentes-Inteligentes). *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
+2. [Búsquedas locales](https://github.com/IA-UNISON/tarea02-Temple-Simulado).  *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
+3. [Satisfacción de restricciones](https://github.com/IA-UNISON/tarea04-SatisfaccionRestricciones).  *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
+4. [Búsquedas informadas](https://github.com/IA-UNISON/tarea05-Busquedas-Informadas). *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
+5. [Búsquedas con adversario](https://github.com/IA-UNISON/tarea06-Busqueda-Adversario).  *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
+6. [Redes bayesianas](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
+7. [Aprendizaje supervisado](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
+8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado).  *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
+9. [Programación dinámica y aprendizaje por refuerzo](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado). *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
