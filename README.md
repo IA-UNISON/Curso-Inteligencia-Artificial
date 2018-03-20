@@ -107,7 +107,7 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 2. [Búsquedas locales](https://github.com/IA-UNISON/tarea02-Temple-Simulado).  *Fecha de entrega: 18 de febrero de 2018*.
 3. [Satisfacción de restricciones](https://github.com/IA-UNISON/tarea03-SatisfaccionRestricciones).  *Fecha de entrega: 4 de marzo de 2018*.
 4. [Búsquedas informadas](https://github.com/IA-UNISON/tarea05-Busquedas-Informadas). *Fecha de entrega: 18 de marzo de 2018*.
-5. [Búsquedas con adversario](https://github.com/IA-UNISON/tarea06-Busqueda-Adversario).  *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
+5. [Búsquedas con adversario](https://github.com/IA-UNISON/tarea06-Busqueda-Adversario).  *Fecha de entrega 16 de abril de 2018*.
 6. [Redes bayesianas](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
 7. [Aprendizaje supervisado](https://github.com/IA-UNISON/tarea07-aprendizaje-supervisado).  *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
 8. [Aprendizaje no supervisado](https://github.com/IA-UNISON/tarea08-aprendizaje-no-supervisado).  *Fecha de entrega por anunciar, favor de no iniciar la tarea todavía*.
